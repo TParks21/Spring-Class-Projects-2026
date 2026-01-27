@@ -2,5 +2,5 @@
 All projects done for the spring 2026 WEBT 1300 class
 <ul>
     <li><a href="intro_html/index.html" target="_blank">intro to HTML</li>
-      <li><a href="HTML5_css/index.html" target="_blank">HTML5 AND INTRO TO CSS</li>
+      <li><a href="HTML5_css/index.html" target="_blank">CSS</li>
 </ul>
