@@ -146,3 +146,10 @@ main {
         width: 100%;
     }
 }
+
+hr {
+    border: 0;
+    height: 1px;
+    background-color: #e65b04;
+    margin: 40px 0;
+}
